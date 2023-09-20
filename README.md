@@ -14,3 +14,10 @@ docker version 24.0.5
 ```
 docker-compose up --build
 ```
+
+
+## Para acessar
+
+```
+http://localhost:4500/crud/
+```
